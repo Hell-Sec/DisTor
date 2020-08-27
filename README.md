@@ -1,2 +1,2 @@
-# Discord-Checker
-A email:pass checker made for discord using tor
+# DisTor
+An Email:Password account checker made for discord sending requests though tor

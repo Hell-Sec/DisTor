@@ -1,19 +1,24 @@
 # DisTor
 An Email:Password account checker made for discord sending requests though tor
 
+
 # How it Works.
 
 This tool sends requests to the discord api `https://discord.com/api/v8/auth/login` with a login `email:pass` if the login is vaild the request returns as *200* if it's invalid it returns *401* 
 
 # What does it grab?
 ***Username & Tag***
+
 ***Username Nitro Status***
+
 ***Username Current Guilds***
+
 ***Linked Banking info*** *Creidit cards, First Name, Last name, Billing Address, and more*
 
 
 # How Do I Run It?
-***`Currently this tool is only for linux`***
+***Currently this tool is only for linux***
+
 1 : Open Terminal and type in `sudo apt-get update && sudo apt-get upgrade`
 
 2 : In the same terminal input `sudo apt-get install tor`
@@ -28,4 +33,5 @@ This tool sends requests to the discord api `https://discord.com/api/v8/auth/log
 # Our Socials.
 
 *Our Youtube* [__Here__](https://www.youtube.com/c/XAnarchy666)
+
 *Our Website* [__Here__](https://lovejuul.com)

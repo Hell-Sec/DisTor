@@ -7,14 +7,13 @@ An Email:Password account checker made for discord sending requests though tor
 This tool sends requests to the discord api `https://discord.com/api/v8/auth/login` with a login `email:pass` if the login is vaild the request returns as *200* if it's invalid it returns *401* 
 
 # What does it grab?
-***Username & Tag***
-
-***Username Nitro Status***
-
-***Username Current Guilds***
-
-***Linked Banking info*** *Creidit cards, First Name, Last name, Billing Address, and more*
-
+<details style='text-align: center;' align='center'>
+  <summary>Socials</summary>
+  <p style="text-align: center;"align="center"> Username & Tag </p>
+  <p style="text-align: center;"align="center"> Nitro Status</p>
+  <p style="text-align: center;"align="center"> Current Guilds & Freinds</p>
+  <p style="text-align: center;"align="center"> Creidit cards, First Name, Last name, Billing Address, and more</p>
+</details>
 
 # How Do I Run It?
 ***Currently this tool is only for linux***
